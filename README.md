@@ -3,6 +3,7 @@
 - 👨‍💻 Developer with diverse skills.
 - 🚀 Exploring new possibilities.
 - 💡 Passionate about tech.
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 Email: am3718440@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/thescriptrailoth)
 
 Let's connect and collaborate!
