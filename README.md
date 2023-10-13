@@ -8,4 +8,3 @@
 
 Let's connect and collaborate!
 
-[![An image of @thescriptrailoth's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thescriptrailoth)](https://holopin.io/@thescriptrailoth)
