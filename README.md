@@ -8,3 +8,5 @@
 
 Let's connect and collaborate!
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheScriptRailoth&theme=highcontrast)](https://git.io/streak-stats)
