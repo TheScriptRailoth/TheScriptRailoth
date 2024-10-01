@@ -9,4 +9,4 @@
 Let's connect and collaborate!
 
 
-![Anshutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheScriptRailoth&theme=dark&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheScriptRailoth&theme=highcontrast)](https://git.io/streak-stats)
