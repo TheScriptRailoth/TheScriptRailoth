@@ -22,7 +22,7 @@
 `Dart` `Python` `C++` `C#` `JavaScript` `Java` `HTML` `CSS`
 
 **Frameworks & Tools:**  
-`Flutter` `Firebase` `.NET` `Node.js` `TensorFlow Lite` `GitHub Actions` `REST APIs` `CI/CD`
+`Flutter` `Firebase` `.NET` `Node.js` `Flask` `TensorFlow Lite` `GitHub Actions` `REST APIs` `CI/CD`
 
 **Tools & IDEs:**  
 `VS Code` `Android Studio` `Visual Studio` `Git` `GitHub`
@@ -35,8 +35,8 @@
 |--------|-------------|------------|-------|
 | **StreamSync** | Remote PC controller app using Flutter + Desktop integration | Dart, Python, Socket, WebSocket | [GitHub](https://github.com/TheScriptRailoth/stream-sync) |
 | **Shiksha.tech** | EdTech platform with video lectures, blogs, resources | Flutter, Firebase, Python, ngRok | [GitHub](https://github.com/TheScriptRailoth/SHIKSHA.TECH) |
-| **Hair Haven App** | Beauty services app with booking + feedback | Flutter, Firebase, REST API | Private (Client) |
-| **Smart Home + BLE** | PC and IoT device control with BLE & CI/CD | Java, Flutter, Python, Raspberry Pi | – |
+| **Thermo-Core**	 | Real-time thermal cycle simulator for power plants (Rankine Cycle) | Python, Flask, Flutter (GUI), Engineering Math | [GitHub](https://github.com/TheScriptRailoth/thermo-core) |
+| **PC + Smart Home Conrol** | PC and IoT device control with BLE & CI/CD | Java, Flutter, Python, Raspberry Pi | [GitHub](https://github.com/TheScriptRailoth/stream-sync) |
 
 > 👉 View full portfolio at: [thescriptrailoth.netlify.app](https://thescriptrailoth.netlify.app/)
 
