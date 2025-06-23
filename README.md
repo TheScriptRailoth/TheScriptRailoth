@@ -72,7 +72,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheScriptRailoth&show_icons=true&theme=radical" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=highcontrast&preferLogin=false">    <img  alt="TheScriptRailoth's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/TheScriptRailoth?cardType=level&theme=highcontrast&preferLogin=false" />  </a>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheScriptRailoth&theme=dark" />
 </p>
