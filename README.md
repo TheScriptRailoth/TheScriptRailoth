@@ -38,7 +38,7 @@
 | **Thermo-Core**	 | Real-time thermal cycle simulator for power plants (Rankine Cycle) | Python, Flask, Flutter (GUI), Engineering Math | [GitHub](https://github.com/TheScriptRailoth/thermo-core) |
 | **PC + Smart Home Conrol** | PC and IoT device control with BLE & CI/CD | Java, Flutter, Python, Raspberry Pi | [GitHub](https://github.com/TheScriptRailoth/stream-sync) |
 
-> 👉 View full portfolio at: [thescriptrailoth.netlify.app](https://thescriptrailoth.netlify.app/)
+> 👉 View full portfolio at: [ashutoshmishra.engineer](https://ashutoshmishra.engineer)
 
 ---
 
